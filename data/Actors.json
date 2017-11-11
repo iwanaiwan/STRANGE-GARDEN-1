@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"ミミ１","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":14,"maxLevel":99,"name":"水樹ミミ","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"ミミ","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":14,"maxLevel":99,"name":"水樹ミミ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"マコト歩行グラ","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":14,"maxLevel":99,"name":"白石マコト","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"マコト裸","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":14,"maxLevel":99,"name":"白石マコト","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"黒宮","classId":2,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Evil","traits":[],"initialLevel":20,"maxLevel":99,"name":"黒宮ジョーシュ","nickname":"","note":"","profile":""}
+]
